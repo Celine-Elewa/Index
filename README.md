@@ -47,9 +47,9 @@ ___
 ## <a name="Wiki-of-the-class"></a> [Wiki of the class](https://github.com/august-elewa-2018/calendar/wiki)
 ___
 
-## <a name="JS-reference"></a> [JS-reference](https://github.com/Souwy/JS-Reference)  
-[Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
-[Reading code template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Reading-code-template.md)
+## <a name="JS-reference"></a> [JS-reference](https://github.com/Celine-Elewa/JS-Reference)  
+[Snippetstudy template](https://raw.githubusercontent.com/Celine-Elewa/JS-Reference/master/Snippetstudy-template.md)   
+[Reading code template](https://raw.githubusercontent.com/Celine-Elewa/JS-Reference/master/Reading-code-template.md)
 * Human-helpers   
 * Primitive types, coercion and operators  
 * Variables   
@@ -65,15 +65,15 @@ ___
 
 ___
 
-## <a name="Error-logs"></a> [Error-logs](https://github.com/Souwy/Error-logs)
-[Error-log template](https://raw.githubusercontent.com/Souwy/Error-logs/master/Error-log-template.md)
+## <a name="Error-logs"></a> [Error-logs](https://github.com/Celine-Elewa/Error-logs)
+[Error-log template](https://raw.githubusercontent.com/Celine-Elewa/Error-logs/master/Error-log-template.md)
 * Syntax error   
 * Runtime error   
 * Logic error   
 
 ___
 
-## <a name="Exercises"></a> [Exercises](https://github.com/Souwy/Exercises)
+## <a name="Exercises"></a> [Exercises](https://github.com/Celine-Elewa/Exercises)
 [Creating an exercise](https://github.com/elewa-academy/creating-exercises) <!-- might change that later -->
 * JS-Reference   
 * Error-log   
@@ -90,10 +90,10 @@ ___
 
 ___
 
-## <a name="Portfolio"></a> [Porfolio](https://github.com/Souwy/Portfolio)
+## <a name="Portfolio"></a> [Porfolio](https://github.com/Celine-Elewa/Portfolio)
 
 ___
 
-## <a name="Vocabulary"></a> [Vocabulary](https://github.com/Souwy/Vocabulary)
+## <a name="Vocabulary"></a> [Vocabulary](https://github.com/Celine-Elewa/Vocabulary)
 
 ___
