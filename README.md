@@ -8,7 +8,7 @@ Keep this index as a pinned tab. ctrl+click on any link.
 * [**Wiki of the class**](#Wiki-of-the-class): the logbook of the class. What were the subjects of each day, example, links, snippetstudies, etc.   
 * [**JS-reference**](#JS-reference): where pieces of code are studied. Where snippetstudies go.
 * [**Error-logs**](#Error-logs): learn interesting concepts from an error   
-* [**Exercises**](#Exercises): parsonized pieces of code, expansions. 
+* [**Exercises**](#Exercises): snippet studies, expansions, trace-blocks, etc. 
 * [**Portfolio**](#Portfolio): projects.
 * [**Vocabulary**](#Vocabulary): list of definitions.
    
